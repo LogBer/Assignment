@@ -1,4 +1,4 @@
-inp_str = "AssignmentDay3"
+inp_str = "AssignmentDay2"
 
 out = {x : inp_str.count(x) for x in set(inp_str )}  
 
