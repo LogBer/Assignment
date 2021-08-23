@@ -1,1 +1,1 @@
-# Assignment Day 1
+# Assignment Python zer0 to HeRo
